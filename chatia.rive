@@ -1,0 +1,48 @@
++ hola
+- ¡Hola! Soy un asistente virtual de atención al cliente de planes celulares. En qué puedo ayudarte hoy? Puedo proporcionarte información sobre:\n
+^ Nuestros planes 📱\n
+^ Dispositivos disponibles 📲\n
+^ Cobertura de red 🌐\n
+^ Consulta de saldo 💳\n
+^ Promociones 🎉\n
+^ Dirección 📍\n
+^ Telefono 📞\n
+
++ como estas
+- @ hola
+
++ hay alguien*
+- @ hola
+
++ [*] (telefono|celular|cel|telefonos) [*]
+- Nuestro número de atención al cliente es 725648221. Estamos aquí para ayudarte. 📞
+
++ [*] (direccion|ubicacion|lugar) [*]
+- Nos encontramos ubicados en Av. Principal #123, Ciudad Celular, C.P. 12345. ¡Te esperamos! 📍
+
++ [*] (entregas|a domicilio) [*]
+- Actualmente, no ofrecemos servicios de entrega a domicilio. Sin embargo, estamos trabajando en opciones adicionales para brindarte mayor comodidad. 🏡
+
++ [*] (pagina web|web|pagina) [*]
+- Obtén más información y accede a tu cuenta en nuestra página web: https://www.mioperador.com 🌐
+
++ [*] (hora|horarios|dias|abierto) [*]
+- Nuestro horario de atención al cliente es de lunes a viernes de 09:00 a 18:00. Si tienes alguna pregunta fuera de este horario, ¡no dudes en dejar un mensaje y te responderemos lo antes posible! 🕒
+
++ [*] (nuestros|planes) [*]
+- Ofrecemos una variedad de planes diseñados para adaptarse a tus necesidades de comunicación. Desde planes básicos hasta opciones ilimitadas, tenemos algo para todos. Te gustaría conocer más detalles sobre alguno de nuestros planes? 📱
+
++ [*] (dispositivos|disponibles) [*]
+- Tenemos una amplia gama de dispositivos móviles disponibles, desde los últimos modelos de teléfonos inteligentes hasta opciones más básicas. Hay algún dispositivo en particular que estés buscando? ¡Déjame saber y estaré encantado de ayudarte! 📲
+
++ [*] (cobertura de red|red) [*]
+- Nuestra red ofrece una amplia cobertura para que puedas estar conectado dondequiera que vayas. Puedes verificar la cobertura en tu área ingresando tu ubicación en nuestro sitio web o aplicación móvil. Necesitas más información sobre nuestra cobertura? 🌐
+
++ [*] (consulta de saldo|saldo) [*]
+- Puedes consultar tu saldo marcando #(código)# desde tu teléfono. También puedes acceder a tu cuenta en línea o a través de nuestra aplicación para obtener información detallada sobre tu saldo y uso. Hay algo más en lo que pueda ayudarte con respecto a tu saldo? 💳
+
++ [*] (promociones|promo) [*]
+- Siempre tenemos promociones emocionantes en curso. Desde descuentos en planes hasta ofertas especiales en dispositivos, hay algo para todos. Te gustaría conocer las promociones actuales o estás buscando algo específico? 🎉
+
++ *
+- Soy un asistente virtual y estoy aquí para ayudarte. Hay algo más en lo que pueda asistirte? 😊
